@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Lorem ipsum dolor sit amet consectetur, adipiscing elit tempor.<br>👯 Lorem ipsum <br>🤝 Lorem ipsum dolor sit amet consectetur, adipiscing<br>🌱 Lorem ipsum dolor<br>💬 Lorem ipsum dolor sit amet consectetur<br>⚡ Lorem ipsum dolor sit amet 
+🔭 Lorem ipsum dolor sit amet consecteturr, adipiscing elit tempor.<br>👯 Lorem ipsum <br>🤝 Lorem ipsum dolor sit amet consectetur, adipiscing<br>🌱 Lorem ipsum dolor<br>💬 Lorem ipsum dolor sit amet consectetur<br>⚡ Lorem ipsum dolor sit amet 
 
 
 ## 🌐 Socials:
