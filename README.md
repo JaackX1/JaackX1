@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Lorem ipsum dolor sit amet consecteturr, adipiscing elit temporz.<br>👯 Lorem ipsumz <br>🤝 Lorem ipsum dolor sit amet consectetur, adipiscing<br>🌱 Lorem ipsum dolor<br>💬 Lorem ipsum dolor sit amet consectetur
+💬 Sic Parvis Magna
 
 
 # 🌐 Socials:
