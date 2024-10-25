@@ -1,5 +1,5 @@
 # 💫 About Me:
-💬 Sic Parvis Magna
+💬 Sic Parvis Magna <br/> 
 🌐 https://portafolio-jaackx1.netlify.app/
 
 # 🌐 Socials:
